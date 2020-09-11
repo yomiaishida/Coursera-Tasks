@@ -16,7 +16,7 @@ h1 {
   }
 }
 
-@media (max-width: 577px) {
+@media (max-width: 767px) {
   div#navbarNav li.nav-item a:hover {
     color: rgb(51, 51, 51);
     background-color: rgb(255, 255, 255, 0.5);
